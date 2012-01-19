@@ -25,7 +25,7 @@
  * 
  */
 
-package cz.fi.muni.xkremser.editor.client.util;
+package cz.fi.muni.xkremser.editor.server.util;
 
 import java.io.StringWriter;
 
