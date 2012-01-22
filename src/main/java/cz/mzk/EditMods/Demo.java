@@ -4,10 +4,10 @@ package cz.mzk.EditMods;
 import java.util.Arrays;
 
 import cz.fi.muni.xkremser.editor.client.mods.ModsCollectionClient;
-import cz.fi.muni.xkremser.editor.client.util.BiblioModsUtils;
 import cz.fi.muni.xkremser.editor.client.view.ModsTab;
 
 import cz.fi.muni.xkremser.editor.server.mods.ModsCollection;
+import cz.fi.muni.xkremser.editor.server.util.BiblioModsUtils;
 
 /**
  * Hello world!
